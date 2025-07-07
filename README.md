@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadaziz1911
 - 👀 I’m interested in web developing and mobile developing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram: @muhammadaziz1911
 - 😄 Pronouns: ...
