@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @muhammadaziz1911
-- 👀 I’m interested in web developing and mobile developing
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me telegram: @muhammadaziz1911
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
 
-<!---
-muhammadaziz1911/muhammadaziz1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Codewars Badge](https://www.codewars.com/users/muhammadaziz_1911)]
+
+<!--![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)-->
+![GitHub stats](https://github.com/muhammadaziz1911)
+
+
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azamjonbro)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+
+
+- 🔭 I’m currently learning at Algoritm LC
+- 🌱 I’m currently learning VueJs, React Js
+- 💬 Ask me about nothing :)
+- 📫 How to reach me: [@muhammadaziz_1911](https://t.me/muhammadaziz_1911) on telegram
+- 😄 Pronouns: Muhammadaziz,
+- ⚡️ Fun fact: :-)
+
+<a href="https://github.com/muhammadaziz1911">
+<!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
+</a>
