@@ -3,7 +3,7 @@
 [![Codewars Badge](https://www.codewars.com/users/muhammadaziz_1911/badges/large)]
 
 <!--![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)-->
-![GitHub stats](https://github.com/muhammadaziz1911)
+![GitHub stats](https://github.com/muhammadaziz1911?tab=stars)
 
 
 
