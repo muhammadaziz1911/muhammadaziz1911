@@ -5,6 +5,13 @@
 <!--![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)-->
 ![GitHub stats](https://github.com/muhammadaziz1911?tab=stars)
 
+## ⌨️ Typing Profile
+
+Check out my typing stats on [Monkeytype](https://monkeytype.com/profile/muhammadaziz_19)!
+
+![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed--Test-orange?logo=typography)
+
+
 
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azamjonbro)](https://github.com/anuraghazra/github-readme-stats)  -->
