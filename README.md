@@ -19,12 +19,13 @@ Check out my typing stats on [Monkeytype](https://monkeytype.com/profile/muhamma
 
 
 - 🔭 I’m currently learning at Algoritm LC
-- 🌱 I’m currently learning VueJs, React Js
+- 🌱 I’m currently learning Node Js ( Backend )
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@muhammadaziz_1911](https://t.me/muhammadaziz_1911) on telegram
 - 😄 Pronouns: Muhammadaziz,
 - ⚡️ Fun fact: :-)
 
 <a href="https://github.com/muhammadaziz1911">
+<a href="https://vercel.com/muhammadazizs-projects-52ec42c2"
 <!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
 </a>
