@@ -20,7 +20,7 @@ Wanna see my projects! => "https://vercel.com/muhammadazizs-projects-52ec42c2"
 
 
 
-- 🔭 I’m currently learning at Online Course (Frontend Level Up)
+- 🔭 I’m currently learning Online Course (Frontend Level Up)
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@muhammadaziz_1911](https://t.me/muhammadaziz_1911) on telegram
