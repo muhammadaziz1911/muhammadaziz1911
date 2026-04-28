@@ -9,7 +9,7 @@
 
 Check out my typing stats on [Monkeytype](https://monkeytype.com/profile/muhammadaziz_19)!
 
-my vercel account => "https://vercel.com/muhammadazizs-projects-52ec42c2"
+Wanna see my projects! => "https://vercel.com/muhammadazizs-projects-52ec42c2"
 
 ![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed--Test-orange?logo=typography)
 
@@ -20,8 +20,8 @@ my vercel account => "https://vercel.com/muhammadazizs-projects-52ec42c2"
 
 
 
-- 🔭 I’m currently learning at Algoritm LC
-- 🌱 I’m currently learning Node Js ( Backend )
+- 🔭 I’m currently learning at Online Course (Frontend Level Up)
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@muhammadaziz_1911](https://t.me/muhammadaziz_1911) on telegram
 - 😄 Pronouns: Muhammadaziz,
