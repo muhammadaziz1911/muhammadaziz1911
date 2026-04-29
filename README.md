@@ -9,7 +9,7 @@
 
 Check out my typing stats on [Monkeytype](https://monkeytype.com/profile/muhammadaziz_19)!
 
-Wanna see my projects! => "https://vercel.com/muhammadazizs-projects-52ec42c2"
+Wanna see my projects? => "https://vercel.com/muhammadazizs-projects-52ec42c2"
 
 ![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed--Test-orange?logo=typography)
 
